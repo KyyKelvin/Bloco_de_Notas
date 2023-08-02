@@ -1,6 +1,6 @@
 # Bloco_de_Notas
 
-Bloco de Notas feito em JFrame visando o aprendizado em Interface Gráfica (GUI).
+Bloco de Notas feito para uma atividade escolar em JFrame, visando o aprendizado em Interface Gráfica (GUI).
 
 # Funcionamento
 
